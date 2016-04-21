@@ -1,4 +1,4 @@
-LIST OF MEMBERS FOR TEAM 030
+LIST OF MEMBERS FOR HORNY BLACK THUGS
 
 Dariusz Skoraczynskii
 
@@ -6,6 +6,7 @@ Luke Gayschk. Prof
 
 Calvin 3-PLy
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 Soorea Kumaran the sleeper master
@@ -17,3 +18,8 @@ Soorea Kumaran PhD MA BSc Cert4 Cert2
 Soorea Kumaran the sleeper
 >>>>>>> origin/master
 >>>>>>> parent of 339650a... Soorea
+=======
+Soorea Kumaran the sleeper master
+
+whatevs
+>>>>>>> origin/master
