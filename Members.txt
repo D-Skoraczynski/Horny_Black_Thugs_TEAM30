@@ -6,8 +6,6 @@ Luke Gaschk. Prof
 
 Calvin Ly
 
-<<<<<<< HEAD
-Soorea Kumaran PhD MA BSc Cert4 Cert2
-=======
+
 Soorea Kumaran the sleeper
 >>>>>>> origin/master
